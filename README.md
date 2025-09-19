@@ -11,6 +11,6 @@ Notlar:
 - Xtream Altyapısını Kullanan IPTVlerde Çalışır
 - CORS Koruması Olanlarda Sorun Çıkartabilir (Nadir)
 
-Forum: [crackturkey.com](https://crackturkey.com/uyeler/kuvvetmira.183452/)
+Forum: [darkcrack.com](https://darkcrack.com)
 
 Discord: `@0kuv`
